@@ -10,7 +10,7 @@
  ### Projects:
  * **Haphaestus-frontend:** A React application simulating a blog archive deployed in Heroku and stylized using 
    bootstrap. Connects to a backend database using Axious. Currently able to generate new posts, view existing posts, 
-   navigate the post archives and filter by tag. Looking to implement new tag generation in near future. You can see this at:
+   navigate the post archives and filter by tag. Looking to implement new tag generation in near future. This app can be seen at:
 
 `https://final-frontier-haphaestus.herokuapp.com`
 
