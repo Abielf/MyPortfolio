@@ -1,7 +1,7 @@
 # Abiel Figueroa
 ## FullStack Developer
 
-## Alt-About Me:
+## About Me:
 
  Associate Degree in Software Development from Bridge Valley Technical and Community College.  Possess 7+ years 
  experience in the hospitality industry as a night auditor and front desk clerk. Programming languages include Java with 
