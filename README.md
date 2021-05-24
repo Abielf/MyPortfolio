@@ -1,14 +1,14 @@
 # Abiel Figueroa
 ## FullStack Developer
 
-## About Me:
+### About Me:
 
  Associate Degree in Software Development from Bridge Valley Technical and Community College.  Possess 7+ years 
  experience in the hospitality industry as a night auditor and front desk clerk. Programming languages include Java with 
  a focus on object-oriented-programming and unit testing, as well as SQL. Exposure to Python, Kubernetes, Angular, and 
  Agile. 
 
-## [Projects](https://github.com/Abielf):
+### [Projects](https://github.com/Abielf):
  * [**Haphaestus-frontend:**](https://github.com/Abielf/Haphaestus-frontend) A React application simulating a blog archive deployed in Heroku and stylized using 
    bootstrap. Connects to a backend database using Axious. Currently able to generate new posts, view existing posts, 
    navigate the post archives and filter by tag. Looking to implement new tag generation in near future. This app can be seen at:
@@ -31,7 +31,7 @@
 
 
 
-## Contact Information:
+### Contact Information:
 
  * **E-Mail:** Abielf@rocketmail.com
  * **LinkedIn:** https://www.linkedin.com/in/abielfigueroa/
